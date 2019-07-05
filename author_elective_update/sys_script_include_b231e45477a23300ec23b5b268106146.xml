@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include"><sys_script_include action="DELETE"><access>package_private</access><active>true</active><api_name>sn_nyprb9.m2</api_name><caller_access/><client_callable>false</client_callable><description/><name>m2</name><script><![CDATA[var m2 = Class.create();
-m2.prototype = {
-    initialize: function() {
-    },
-
-    type: 'm2'
-};]]></script><sys_class_name>sys_script_include</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-07-05 18:28:00</sys_created_on><sys_id>b231e45477a23300ec23b5b268106146</sys_id><sys_mod_count>0</sys_mod_count><sys_name>m2</sys_name><sys_package display_value="nyprb9" source="sn_nyprb9">d4e0605477a23300ec23b5b2681061ce</sys_package><sys_policy>read</sys_policy><sys_scope display_value="nyprb9">d4e0605477a23300ec23b5b2681061ce</sys_scope><sys_update_name>sys_script_include_b231e45477a23300ec23b5b268106146</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-07-05 18:28:00</sys_updated_on></sys_script_include></record_update>
